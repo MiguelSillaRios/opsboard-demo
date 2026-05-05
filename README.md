@@ -2,7 +2,7 @@
 
 Prototipo funcional de una aplicación para gestión de tareas en equipos operativos (logística, transporte, almacén). Diseñado como alternativa moderna a las hojas de Excel compartidas que muchos equipos siguen usando para coordinar el día a día.
 
-**[→ Probar la demo en vivo](https://logistica-demo-miguelsilla.netlify.app)** *(actualizar URL al desplegar)*
+**[→ Probar la demo en vivo](https://opsboard-demo.netlify.app/)** **
 
 ---
 
